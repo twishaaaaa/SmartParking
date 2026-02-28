@@ -1,21 +1,21 @@
-# 🚗 Smart Campus Parking System
+# Smart Campus Parking System
 
 > A full-stack, cloud-integrated parking management solution developed for **SCET Surat**.  
 > Digitizes vehicle entry/exit using QR Code technology with real-time occupancy tracking for **3,000+ daily vehicles**.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
-- **☁️ Cloud Database** — Real-time data persistence using MongoDB Atlas
-- **📲 QR-Based Authentication** — Automated generation of unique QR stickers for student vehicles
-- **🎯 Security Guard Interface** — Integrated camera scanner with instant audio and visual feedback
-- **🔢 Categorized Capacity** — Separate tracking and limits for 2-Wheeler (2,000 slots) and 4-Wheeler (1,000 slots) zones
-- **📊 Admin Dashboard** — Live occupancy progress bars, owner lookup by plate number, and a recent activity log with timestamps
+- **Cloud Database** — Real-time data persistence using MongoDB Atlas
+- **QR-Based Authentication** — Automated generation of unique QR stickers for student vehicles
+- **Security Guard Interface** — Integrated camera scanner with instant audio and visual feedback
+- **Categorized Capacity** — Separate tracking and limits for 2-Wheeler (2,000 slots) and 4-Wheeler (1,000 slots) zones
+- **Admin Dashboard** — Live occupancy progress bars, owner lookup by plate number, and a recent activity log with timestamps
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -77,7 +77,7 @@ SmartParking/
 
 ---
 
-## 📊 System Logic
+## System Logic
 
 ```
 [Registration] ──► [Scan QR] ──► [Validate ID & Zone Capacity] ──► [Log IN/OUT + Timestamp]
@@ -90,7 +90,7 @@ SmartParking/
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 **Twisha Savani**  
 IT Student, SCET Surat
